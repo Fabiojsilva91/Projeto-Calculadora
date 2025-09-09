@@ -1,3 +1,2 @@
 # Projeto-Calculadora
-Meu primeiro projeto de calculadora em terminal utilizando o mínimo de linhas de código possível.
-Tecnologias utilizadas:
+Meu primeiro projeto de calculadora em terminal utilizando o mínimo de linhas de código possível. Preciso e agil.
